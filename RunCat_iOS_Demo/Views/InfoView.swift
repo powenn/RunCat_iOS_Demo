@@ -26,7 +26,7 @@ struct InfoView: View {
                     }
                 })
             }
-            Section(footer: Text("This is a demo of iOS ported RunCat\nCodes reference from\n https://github.com/Kyome22/menubar_runcat"), content: {})
+            Section(footer: Text("This is a demo of iOS ported RunCat\nCodes reference from\nhttps://github.com/Kyome22/menubar_runcat"), content: {})
         }
     }
 }
